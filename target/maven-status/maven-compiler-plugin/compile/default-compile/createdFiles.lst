@@ -1,0 +1,7 @@
+ec\edu\ups\demoJakartaa\services\ClientesService.class
+ec\edu\ups\demoJakartaa\dao\ClienteDAO.class
+ec\edu\ups\demoJakartaa\modelo\Cliente.class
+ec\edu\ups\demoJakartaa\services\Respuesta.class
+ec\edu\ups\demoJakartaa\business\GestionClientes.class
+ec\edu\ups\demoJakartaa\services\PathBase.class
+ec\edu\ups\demoJakartaa\business\GestionUsuario.class
